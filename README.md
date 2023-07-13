@@ -35,9 +35,9 @@
   <br>
   <hr>
   <!--gifs-->
-  <img align="right"alt="gif" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGRwbzYxbjYzbWJxdWhsa3lxOGJlaGEzYXY1bjlxZG1wb3AzNDN2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6cyetttpTEhNqTJ8ZL/giphy.gif">
+  <img align="right"alt="gif" height="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGRwbzYxbjYzbWJxdWhsa3lxOGJlaGEzYXY1bjlxZG1wb3AzNDN2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6cyetttpTEhNqTJ8ZL/giphy.gif">
   <img align="center"alt="gif" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXh4ZHZ0dnkwYmU0YjI0b3BpaDJheHNqM2xmcjA0MWpzZTV6aHJ4diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gUNA7QH4AeLde/giphy.gif">
-   <img align="left"alt="gif" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGRwbzYxbjYzbWJxdWhsa3lxOGJlaGEzYXY1bjlxZG1wb3AzNDN2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6cyetttpTEhNqTJ8ZL/giphy.gif">
+   <img align="left"alt="gif" height="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGRwbzYxbjYzbWJxdWhsa3lxOGJlaGEzYXY1bjlxZG1wb3AzNDN2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6cyetttpTEhNqTJ8ZL/giphy.gif">
    <br>
 
 </div>
