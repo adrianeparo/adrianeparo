@@ -1,7 +1,8 @@
 <div align="center">
+ <!--BORDER-->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a11f49&height=120&section=header"/>
  
-          
+   <!--APRESENTAÇÃO-->       
   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=B34B6D&size=32&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Adriane+Paro+ლ(╹◡╹ლ);I'm+19+years+old;I'm+from+Brazil;Be+Welcome!+(●'◡'●))](https://git.io/typing-svg)
 
    <img align="center" alt="gif" height="100" src="https://media0.giphy.com/media/4YYfeqvi0bSNoIs7vs/giphy.gif?cid=ecf05e475yi7jknu4liee86pydhkc31g1drpx62hilt4i7n9&ep=v1_gifs_related&rid=giphy.gif&ct=s"/> 
@@ -34,9 +35,9 @@
   <br>
   <hr>
   <!--gifs-->
-  <img align="right"alt="gif" height="250" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGRwbzYxbjYzbWJxdWhsa3lxOGJlaGEzYXY1bjlxZG1wb3AzNDN2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6cyetttpTEhNqTJ8ZL/giphy.gif">
+  <img align="right"alt="gif" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGRwbzYxbjYzbWJxdWhsa3lxOGJlaGEzYXY1bjlxZG1wb3AzNDN2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6cyetttpTEhNqTJ8ZL/giphy.gif">
   <img align="center"alt="gif" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXh4ZHZ0dnkwYmU0YjI0b3BpaDJheHNqM2xmcjA0MWpzZTV6aHJ4diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gUNA7QH4AeLde/giphy.gif">
-   <img align="left"alt="gif" height="250" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGRwbzYxbjYzbWJxdWhsa3lxOGJlaGEzYXY1bjlxZG1wb3AzNDN2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6cyetttpTEhNqTJ8ZL/giphy.gif">
+   <img align="left"alt="gif" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGRwbzYxbjYzbWJxdWhsa3lxOGJlaGEzYXY1bjlxZG1wb3AzNDN2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6cyetttpTEhNqTJ8ZL/giphy.gif">
    <br>
 
 </div>
