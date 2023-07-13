@@ -1,11 +1,20 @@
-<div>
+<div align="center">
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a11f49&height=120&section=header"/>
+ 
+          
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=B34B6D&size=32&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Adriane+Paro+ლ(╹◡╹ლ);I'm+19+years+old;I'm+from+Brazil;Be+Welcome!+(●'◡'●))](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=B34B6D&size=32&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Adriane+Paro+ლ(╹◡╹ლ);I'm+19+years+old;I'm+from+Brazil;Be+Welcome!+(●'◡'●))](https://git.io/typing-svg)
+   <img align="center" alt="gif" height="100" src="https://media0.giphy.com/media/4YYfeqvi0bSNoIs7vs/giphy.gif?cid=ecf05e475yi7jknu4liee86pydhkc31g1drpx62hilt4i7n9&ep=v1_gifs_related&rid=giphy.gif&ct=s"/> 
+   
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=B34B6D&size=32&center=true&vCenter=true&width=1000&lines=-------------------)](https://git.io/typing-svg)
+
+ 
 </div>
 
-<div align="center" style="display: inline_block"> 
-  <h2>MORE ABOUT ME : </h2>
+
+<div align="center"> 
+  <h1> MORE ABOUT ME : </h1>
+  <br>
   <p>🤓Systems analysis and development student<br>☕Learning Java and Javascript</p>
   <!--ICONS DE LINGUAGENS-->
   <img align="center" alt="Javascript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -22,11 +31,13 @@
   <a href="https://instagram.com/adrivulps" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:adrianeparo16@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/adriane-paro-b32361263/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><p></p>
+  <br>
   <hr>
   <!--gifs-->
   <img align="right"alt="gif" height="250" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGRwbzYxbjYzbWJxdWhsa3lxOGJlaGEzYXY1bjlxZG1wb3AzNDN2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6cyetttpTEhNqTJ8ZL/giphy.gif">
   <img align="center"alt="gif" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXh4ZHZ0dnkwYmU0YjI0b3BpaDJheHNqM2xmcjA0MWpzZTV6aHJ4diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gUNA7QH4AeLde/giphy.gif">
    <img align="left"alt="gif" height="250" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGRwbzYxbjYzbWJxdWhsa3lxOGJlaGEzYXY1bjlxZG1wb3AzNDN2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6cyetttpTEhNqTJ8ZL/giphy.gif">
+   <br>
 
 </div>
 
