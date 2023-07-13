@@ -6,14 +6,14 @@
 
 <div align="center" style="display: inline_block"> 
   <h2>MORE ABOUT ME : </h2>
-  <p>🤓systems analysis and development student<br>☕Learning Java and Javascript</p>
+  <p>🤓Systems analysis and development student<br>☕Learning Java and Javascript</p>
   <!--ICONS DE LINGUAGENS-->
   <img align="center" alt="Javascript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> 
   <img align="center" alt="LinguagemC" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">     
   <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <!--GIF-->
+  
  
 </div>
 <br>
@@ -21,9 +21,16 @@
 <div align="center"> 
   <a href="https://instagram.com/adrivulps" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:adrianeparo16@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/adriane-paro-b32361263/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/adriane-paro-b32361263/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><p></p>
+  <hr>
+  <!--gifs-->
+  <img align="right"alt="gif" height="250" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGRwbzYxbjYzbWJxdWhsa3lxOGJlaGEzYXY1bjlxZG1wb3AzNDN2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6cyetttpTEhNqTJ8ZL/giphy.gif">
+  <img align="center"alt="gif" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXh4ZHZ0dnkwYmU0YjI0b3BpaDJheHNqM2xmcjA0MWpzZTV6aHJ4diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gUNA7QH4AeLde/giphy.gif">
+   <img align="left"alt="gif" height="250" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGRwbzYxbjYzbWJxdWhsa3lxOGJlaGEzYXY1bjlxZG1wb3AzNDN2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6cyetttpTEhNqTJ8ZL/giphy.gif">
+
 </div>
 
+<br>
  <div align="right">
 <hr>
 <div align="center">  
