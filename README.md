@@ -51,13 +51,13 @@
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=adrianeparo&bg_color=141414&color=a11f49&line=401d53&point=a11f49&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+<hr>
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{adrianeparo}/count.svg" /></p> 
 <br>
 </div>
-
+<hr>
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a11f49&height=120&section=footer"/>
 
 </div>
