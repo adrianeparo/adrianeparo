@@ -14,7 +14,7 @@
 
 
 <div align="center"> 
-  <h1> MORE ABOUT ME : </h1>
+  <h1> MORE ABOUT ME :</h1>
   <br>
   <p>🤓Systems analysis and development student<br>☕Learning Java and Javascript</p>
   <!--ICONS DE LINGUAGENS-->
