@@ -3,7 +3,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a11f49&height=120&section=header"/>
  
    <!--APRESENTAÇÃO-->       
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=B34B6D&size=32&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Adriane+Paro+ლ(╹◡╹ლ);I'm+19+years+old;I'm+from+Brazil;Be+Welcome!+(●'◡'●))](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=B34B6D&size=32&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Adriane+Paro+ლ(╹◡╹ლ);I'm+20+years+old;I'm+from+Brazil;Be+Welcome!+(●'◡'●))](https://git.io/typing-svg)
 
    <!--<img align="center" alt="gif" height="100" src="https://media0.giphy.com/media/4YYfeqvi0bSNoIs7vs/giphy.gif?cid=ecf05e475yi7jknu4liee86pydhkc31g1drpx62hilt4i7n9&ep=v1_gifs_related&rid=giphy.gif&ct=s"/> -->
    
