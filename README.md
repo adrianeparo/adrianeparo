@@ -16,7 +16,7 @@
 <div align="center"> 
   <h1> MORE ABOUT ME :</h1>
   <br>
-  <p>🤓Systems analysis and development student<br>☕Learning Java and Javascript</p>
+  <p>☕Learning Java</p>
   <!--ICONS DE LINGUAGENS-->
   <img align="center" alt="Javascript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> 
