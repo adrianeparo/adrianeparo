@@ -23,6 +23,7 @@
   <img align="center" alt="LinguagemC" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">     
   <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="FIGMA" height="50" width="50" src="https://miro.medium.com/v2/resize:fit:1340/0*UTBrDcrJ6SbePBzR">
   
  
 </div>
