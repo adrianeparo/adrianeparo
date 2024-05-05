@@ -46,7 +46,7 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=adrianeparo&show_icons=true&count_private=true&hide_border=true&title_color=9b3dd4&icon_color=9b3dd4&text_color=a11f49&bg_color=0d1117" alt="Adriane Paro github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianeparo&layout=compact&hide_border=true&title_color=9b3dd4&text_color=a11f49&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianeparo&layout=compact&hide_border=true&title_color=9b3dd4&text_color=9b3dd4&bg_color=0d1117" />
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=adrianeparo&bg_color=0d1117&color=a11f49&line=401d53&point=a11f49&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
