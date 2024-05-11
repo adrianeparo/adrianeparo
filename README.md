@@ -5,7 +5,7 @@
  
    <!--APRESENTAÇÃO-->       
  <!--[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=B34B6D&size=32&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Adriane+Paro+;I'm+20+years+old;Be+Welcome!+(●'◡'●))](https://git.io/typing-svg)-->
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=cf74ff&size=32&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Adriane+Paro+;Eu+tenho+20+anos;Seja+Bem-Vindo!+(●'◡'●))](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=cf74ff&size=32&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Adriane;Eu+tenho+20+anos;Seja+Bem-Vindo!+(●'◡'●))](https://git.io/typing-svg)
   
 
    <!--<img align="center" alt="gif" height="100" src="https://media0.giphy.com/media/4YYfeqvi0bSNoIs7vs/giphy.gif?cid=ecf05e475yi7jknu4liee86pydhkc31g1drpx62hilt4i7n9&ep=v1_gifs_related&rid=giphy.gif&ct=s"/> -->
@@ -14,7 +14,8 @@
 
 
 <div align="center"> 
-  <h1> MORE ABOUT ME :</h1>
+  
+  <h1>About me :</h1>
   
   <p>| ☕Learning Java |</p>
   <!--ICONS DE LINGUAGENS-->
@@ -43,6 +44,7 @@
 -->
 </div>
  <div align="right">
+
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=adrianeparo&show_icons=true&count_private=true&hide_border=true&title_color=9b3dd4&icon_color=9b3dd4&text_color=a11f49&bg_color=0d1117" alt="Adriane Paro github stats" /> 
