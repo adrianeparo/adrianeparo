@@ -11,27 +11,40 @@
 
 </div>
 
+<div align="center">
+ 
+<h1><img align="" height="60" width="50" src=https://i.pinimg.com/originals/1a/56/ea/1a56eaaaf78869d7c6e0e620b2b98394.gif>Sobre mim:</h1>
+<p><br></p>
+</div>
 
-<div align="center"> 
-  
-  <h1>About me :</h1>
-  
-  <p>| ☕ |</p>
+<div align="center">   
   <!--ICONS DE LINGUAGENS-->
   <img align="center" alt="Javascript" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> 
   <img align="center" alt="mySQL" height="50" width="50" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png"> 
+  <img align="center" alt="git" height="50" width="50" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
   <img align="center" alt="PHP" height="40" width="65" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png"> 
   <img align="center" alt="LinguagemC" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">     
   <img align="center" alt="HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="FIGMA" height="50" width="50" src="https://miro.medium.com/v2/resize:fit:1340/0*UTBrDcrJ6SbePBzR">
-  
+ <br>
+ </div>
+ <br>
  
+  <div align="center">
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F4F4&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=435&lines=Ferramentas" alt="Typing SVG" /></a>
+   <br>
+  <img align="center" alt="FIGMA" height="60" width="60" src="https://miro.medium.com/v2/resize:fit:1340/0*UTBrDcrJ6SbePBzR">
+  <img align="center" alt="PS" height="55" width="55" src="https://upload.wikimedia.org/wikipedia/commons/b/be/Adobe_Photoshop_CS6_icon.png">
+  <img align="center" alt="netbeans" height="60" width="60" src="https://cdn3d.iconscout.com/3d/free/thumb/free-netbeans-5728461-4781225.png">
+  <img align="center" alt="vscode" height="60" width="60" src="https://code.visualstudio.com/assets/branding/app-icon.png">
 </div>
 <br>
+
 <!--ICONS DE REDE SOCIAL E OS LINKS-->
 <div align="center"> 
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F4F4&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=435&lines=Onde+me+encontrar%3A" alt="Typing SVG" /></a>
+ <br>
   <a href="https://instagram.com/adrivulps" target="_blank" rel="external"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:adrianeparo16@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/adriane-paro-b32361263/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><p></p>
