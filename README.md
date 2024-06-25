@@ -14,7 +14,6 @@
 <div align="center">
  
 <h1><img align="" height="60" width="50" src=https://i.pinimg.com/originals/1a/56/ea/1a56eaaaf78869d7c6e0e620b2b98394.gif>Sobre mim:</h1>
-<p><br></p>
 </div>
 
 <div align="center">   
@@ -32,6 +31,7 @@
  <br>
  
   <div align="center">
+   <p><br></p>
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F4F4&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=435&lines=Ferramentas" alt="Typing SVG" /></a>
    <br>
   <img align="center" alt="FIGMA" height="60" width="60" src="https://miro.medium.com/v2/resize:fit:1340/0*UTBrDcrJ6SbePBzR">
@@ -43,6 +43,7 @@
 
 <!--ICONS DE REDE SOCIAL E OS LINKS-->
 <div align="center"> 
+ <p><br></p>
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F4F4&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=435&lines=Onde+me+encontrar%3A" alt="Typing SVG" /></a>
  <br>
   <a href="https://instagram.com/adrivulps" target="_blank" rel="external"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
