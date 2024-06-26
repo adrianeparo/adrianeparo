@@ -15,6 +15,7 @@
  
 <h1><img align="" height="60" width="50" src=https://i.pinimg.com/originals/1a/56/ea/1a56eaaaf78869d7c6e0e620b2b98394.gif>Sobre mim:</h1>
 </div>
+<br>
 
 <div align="center">   
   <!--ICONS DE LINGUAGENS-->
