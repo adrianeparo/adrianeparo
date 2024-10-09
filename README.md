@@ -22,6 +22,7 @@
   <img align="center" alt="HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Javascript" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="React" height="50" width="50" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png">
   <img align="center" alt="Java" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"> 
   <img align="center" alt="PHP" height="40" width="65" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png"> 
   <img align="center" alt="mySQL" height="50" width="50" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png"> 
