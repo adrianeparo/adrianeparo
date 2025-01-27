@@ -5,7 +5,7 @@
  
    <!--APRESENTAÇÃO-->       
  <!--[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=B34B6D&size=32&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Adriane+Paro+;I'm+20+years+old;Be+Welcome!+(●'◡'●))](https://git.io/typing-svg)-->
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=cf74ff&size=32&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Adriane;Eu+tenho+20+anos;Seja+Bem-Vindo!+(●'◡'●))](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=cf74ff&size=32&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Adriane;Seja+Bem-Vindo!+(●'◡'●))](https://git.io/typing-svg)
   
    <!--<img align="center" alt="gif" height="100" src="https://media0.giphy.com/media/4YYfeqvi0bSNoIs7vs/giphy.gif?cid=ecf05e475yi7jknu4liee86pydhkc31g1drpx62hilt4i7n9&ep=v1_gifs_related&rid=giphy.gif&ct=s"/> -->
 
