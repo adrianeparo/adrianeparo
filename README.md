@@ -24,8 +24,8 @@
   <img align="center" alt="Javascript" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="React" height="50" width="50" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png">
   <img align="center" alt="Java" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"> 
-  <img align="center" alt="PHP" height="40" width="65" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png"> 
-  <img align="center" alt="mySQL" height="50" width="50" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png"> 
+  <img align="center" alt="PHP" height="55" width="50" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"> 
+  <img align="center" alt="mySQL" height="60" width="60" src="https://icons.veryicon.com/png/o/system/inspur-cloud-icon/rds-mysql.png"> 
   <img align="center" alt="git" height="50" width="50" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
   <!--<img align="center" alt="LinguagemC" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">-->     
  
