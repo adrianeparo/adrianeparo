@@ -1,11 +1,11 @@
 <div align="center">
  <!--BORDER-->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6706a9&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6706a9&height=100&section=header"/>
 
  
    <!--APRESENTAÇÃO-->       
  <!--[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=B34B6D&size=32&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Adriane+Paro+;I'm+20+years+old;Be+Welcome!+(●'◡'●))](https://git.io/typing-svg)-->
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=cf74ff&size=32&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Adriane;Seja+Bem-Vindo!+(●'◡'●))](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=cf74ff&size=32&center=true&vCenter=true&width=1000&lines=Hey+there+%F0%9F%91%8B%2C+I'm+Adriane;Welcome+to+my+Profile!+(●'◡'●))](https://git.io/typing-svg)
   
    <!--<img align="center" alt="gif" height="100" src="https://media0.giphy.com/media/4YYfeqvi0bSNoIs7vs/giphy.gif?cid=ecf05e475yi7jknu4liee86pydhkc31g1drpx62hilt4i7n9&ep=v1_gifs_related&rid=giphy.gif&ct=s"/> -->
 
@@ -13,7 +13,7 @@
 
 <div align="center">
  
-<h1><img align="" height="60" width="50" src=https://i.pinimg.com/originals/1a/56/ea/1a56eaaaf78869d7c6e0e620b2b98394.gif>Sobre mim:</h1>
+<h1><img align="" height="60" width="50" src=https://i.pinimg.com/originals/1a/56/ea/1a56eaaaf78869d7c6e0e620b2b98394.gif>About me:</h1>
 </div>
 <br>
 
@@ -35,7 +35,7 @@
  
   <div align="center">
    <p><br></p>
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F4F4&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=435&lines=Ferramentas" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F4F4&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=435&lines=Tools" alt="Typing SVG" /></a>
    <br>
   <img align="center" alt="FIGMA" height="60" width="60" src="https://miro.medium.com/v2/resize:fit:1340/0*UTBrDcrJ6SbePBzR">
   <img align="center" alt="PS" height="55" width="55" src="https://upload.wikimedia.org/wikipedia/commons/b/be/Adobe_Photoshop_CS6_icon.png">
@@ -44,15 +44,15 @@
 </div>
 <br>
 
-<!--ICONS DE REDE SOCIAL E OS LINKS-->
+<!--ICONS DE REDE SOCIAL E OS LINKS
 <div align="center"> 
  <p><br></p>
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F4F4&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=435&lines=Onde+me+encontrar%3A" alt="Typing SVG" /></a>
  <br>
  <!-- <a href="https://instagram.com/adrivulps" target="_blank" rel="external"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>-->
-  <a href = "mailto:adrianeparo16@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <!--<a href = "mailto:adrianeparo16@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/adriane-paro-b32361263/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><p></p>
-  <br>
+  <br>-->
 
   <!--gifs
   <img align="right"alt="gif" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGRwbzYxbjYzbWJxdWhsa3lxOGJlaGEzYXY1bjlxZG1wb3AzNDN2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6cyetttpTEhNqTJ8ZL/giphy.gif">
